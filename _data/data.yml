@@ -12,17 +12,10 @@ sidebar:
     avatar: 치라미.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    email: kyeonga.jeon@devsisters.com
+    phone: ---
+    linkedin: 
     github: bzzit
-    telegram: # add your nickname without '@' sign
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: Korean
@@ -47,7 +40,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
+    - degree: 
       university: University of London
       time: 2011 - 2012
       details: |
@@ -58,10 +51,10 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
+    - degree: BSc in Hospitality management
       university: Bristol University
-      time: 2007 - 2011
-      details: |
+      time: 2011 - 2016
+      details: 
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -161,21 +154,21 @@ skills:
 
     toolset:
       - name: Python
-        level: 98%
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Golang
+        level: 60%
 
-      - name: HTML5 & CSS
+      - name: 그림판
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Excel
+        level: 75%
 
-      - name: Sketch & Photoshop
+      - name: Problem Solving
         level: 60%
 
 footer: >
